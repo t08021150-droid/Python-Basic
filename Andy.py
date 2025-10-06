@@ -1,1 +1,3 @@
-print("Hello World")
+challenge = "Hello";
+
+print(challenge.digit())  # False
